@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/zVjxqnB/191.jpg",
+        "title": "The Mysterious Adventure",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/Fh6RjFc/lovely-blonde-woman-with-elegant-manicure-writing-something-colorful-notebook-with-gently-smile.jpg",
+        "posted_date": "2023-11-07",
+        "hashtags": [
+            "mystery",
+            "adventure",
+            "fiction"
+        ],
+        "reading_time": 12
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6PXzGXg/251-Fashion-sale-facebook-cover-page-template.jpg",
+        "title": "Cooking Delights",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/sWwtd6y/pin-up-girl.jpg",
+        "posted_date": "2023-11-08",
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ],
+        "reading_time": 8
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/5Mqm1Tx/4164726.jpg",
+        "title": "Traveling the World",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/HVfj86z/student-attractive-girl-by-table.jpg",
+        "posted_date": "2023-11-09",
+        "hashtags": [
+            "travel",
+            "adventure",
+            "explore"
+        ],
+        "reading_time": 15
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/4TbYXYP/6717808.jpg",
+        "title": "Tech Trends 2023",
+        "author": "Emily Parker",
+        "author_img": "https://i.ibb.co/W2b2dbY/young-woman-writing-diary-restaurant.jpg",
+        "posted_date": "2023-11-10",
+        "hashtags": [
+            "technology",
+            "trends",
+            "innovation"
+        ],
+        "reading_time": 10
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/vBwvpn5/191.jpg",
+        "title": "Health and Wellness",
+        "author": "Michael Johnson",
+        "author_img": "https://i.ibb.co/GdtW3Ch/side-view-business-man-writing-agenda.jpg",
+        "posted_date": "2023-11-11",
+        "hashtags": [
+            "health",
+            "wellness",
+            "fitness"
+        ],
+        "reading_time": 7
+    }
+]
