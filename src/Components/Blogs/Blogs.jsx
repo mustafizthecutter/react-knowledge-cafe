@@ -1,4 +1,3 @@
-import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 
@@ -10,8 +9,8 @@ const Blogs = () => {
             .then(data => setBlogs(data))
     }, [])
     return (
-        <div>
-
+        <div className='md:w-2/3'>
+            <h3 className='text-4xl'>Blogs {blogs.length}</h3>
         </div>
     );
 };
